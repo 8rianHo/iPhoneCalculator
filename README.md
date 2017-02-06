@@ -1,3 +1,3 @@
 A Swift 3.0 project replicating the default calculator on Apple iPhones.
 
-![ScreenShot]()
+![ScreenShot](iPhoneCalculator/iPhoneCalculator/Assets.xcassets/AppIcon.appiconset/iPhoneCalculatorScreenShot.png)
